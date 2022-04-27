@@ -3,7 +3,8 @@
 ## I am beginner frontend developer. Now I am studing at Hexlet
 
 ### Languages and tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css&logoColor=E9D54D)
-![JavaScript](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=E9D54D)
-Follow me
+![JavaScript](https://img.shields.io/badge/-JavaScript-brightgreen)
+![CSS](https://img.shields.io/badge/-CSS-brightgreen)
+![HTML](https://img.shields.io/badge/-HTML-brightgreen)
+![Git](https://img.shields.io/badge/-Git-brightgreen)
+### Follow me
