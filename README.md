@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nikitereh/Nikitereh/blob/main/assets/header.png)
 
-## I am beginner frontend developer.
+## I am frontend developer.
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brightgreen)
