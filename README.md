@@ -4,6 +4,8 @@
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brightgreen)
+![Vue](https://img.shields.io/badge/-Vue-brightgreen)
+![VueX](https://img.shields.io/badge/-Vuex-brightgreen)
 ![CSS](https://img.shields.io/badge/-CSS-brightgreen)
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen)
 ![Git](https://img.shields.io/badge/-Git-brightgreen)
